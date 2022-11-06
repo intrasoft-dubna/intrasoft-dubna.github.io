@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 497.183 288.696" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="284.21" id="Filter" width="494.208" x="0.450628" y="0.27099">
+<feDropShadow dx="4.54063" dy="5.63481" flood-color="#000000" flood-opacity="0.2" in="SourceGraphic" result="Shadow" stdDeviation="2.14041"/>
+</filter>
+</defs>
+<g id="Сообщение-л" vectornator:layerName="Сообщение л">
+<path d="M0.450628 125.395C0.450628 56.2911 108.263 0.27099 241.257 0.27099C374.25 0.27099 482.063 56.2911 482.063 125.395C482.063 150.514 470.857 172.234 443.164 195.457C441.859 196.551 513.168 219.857 474.154 250.01C405.775 302.857 332.005 255.905 329.576 242.969C329.526 242.701 272.204 250.52 241.257 250.52C108.263 250.52 0.450628 194.5 0.450628 125.395Z" fill="#f1e2ce" fill-opacity="0.8" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:shadowAngle="0.892518" vectornator:shadowColor="#000000" vectornator:shadowOffset="7.2366" vectornator:shadowOpacity="0.2" vectornator:shadowRadius="4.28082"/>
+</g>
+</svg>
